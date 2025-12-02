@@ -514,6 +514,12 @@ h6 {
   text-align: center;
 }
 
+/* Fix contrast issue for the BootstrapMade footer credit link */
+footer .credits a[href="https://bootstrapmade.com/"] {
+  color: #0d6efd !important;
+}
+
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
