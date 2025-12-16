@@ -55,12 +55,14 @@ Expected Graduation: *May 2026*
 ---
 
 ## 📂 Website Structure
-├── index.html # Home page
-├── about.html # About me
-├── resume.html # Resume and experience
-├── assets/ # CSS, JS, images, icons
-├── privacy.html # Privacy policy
-└── cookies.html # Cookie policy
+- `index.html` – Home page  
+- `about.html` – About me  
+- `resume.html` – Resume and experience  
+- `portfolio.html` – Projects and case studies  
+- `privacy.html` – Privacy policy  
+- `cookies.html` – Cookie policy  
+- `assets/` – CSS, JavaScript, images, icons  
+
 
 ---
 
